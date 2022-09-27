@@ -4,8 +4,7 @@
 <h3 align="center">Frontend Developer</h3>
 
 - 🌱 I’m currently learning **React, Node**
-
-- 👯 I’m looking to collaborate on **Frontend-Bootcamp-2021**
+**
 
 - 👨‍💻 All of my projects are available at [https://hibadem.github.io/portfolio](https://hibadem.github.io/portfolio)
 
